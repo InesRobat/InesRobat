@@ -1,4 +1,4 @@
-<a href="https://www.inesmaatalla.com"><img alt="Ines" src="https://github.com/InesMaatalla/InesMaatalla/blob/master/Ines%20Maatalla.png"/><a/>
+<a href="https://www.inesmaatalla.com"><img alt="Ines" src="https://github.com/InesMaatalla/InesMaatalla/blob/master/banner.png"/><a/>
 
 ## About me 
   - 😁 Love to share my joy of life with people

@@ -29,6 +29,6 @@
 </a>
 
 <a href="https://www.inesmaatalla.com">
-  <img align="left" alt="Ines's Linkedin" width="23px" src="https://github.com/InesMaatalla/InesMaatalla/blob/master/logo.svg"/>
+  <img align="left" alt="Ines's Linkedin" width="21px" src="https://github.com/InesMaatalla/InesMaatalla/blob/master/logo.svg"/>
 </a>
 

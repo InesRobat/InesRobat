@@ -19,9 +19,6 @@
 <br />
 
 ### Get in Touch 
-<a href="https://github.com/InesMaatalla">
-  <img align="left" alt="Ines's GitHub" width="21px" src="https://img.icons8.com/ios-glyphs/90/000000/github.png" />
-</a>
 
 <a href="https://www.youtube.com/channel/UCfb7AoH-CUfOUI9zsFZiMRA">
   <img align="left" alt="Ines's YouTube" width="21px" src="https://img.icons8.com/color/144/000000/youtube-play.png"/>

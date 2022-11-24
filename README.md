@@ -6,7 +6,7 @@
   - ✈️ Love to go on an adventure 
 
 ### Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InesMaatalla&layout=compact)](https://github.com/InesMaatalla/InesMaatalla)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InesRobat&layout=compact)](https://github.com/InesRobat/InesRobat)
 
 <img align="left" src="https://img.icons8.com/color/144/000000/html-5--v1.png" width ="32px"/>
 <img align="left" src="https://img.icons8.com/color/144/000000/css3.png" width ="32px"/>

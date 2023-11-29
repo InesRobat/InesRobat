@@ -1,9 +1,9 @@
 <a href=""><img alt="Ines" src="https://github.com/InesMaatalla/InesMaatalla/blob/master/banner.png"/><a/>
 
 ## About me 
-  - 😁 Love to share my joy of life with people
-  - 💻 Love to learn new things 
-  - ✈️ Love to go on an adventure 
+  - 😁 The greatest joys is sharing my experiences and spreading positivity to inspire others.
+  - 💻 Curiosity is a powerful driving force that fuels my desire to explore the unknown, expand my knowledge, and grow as individuals. 
+  - ✈️ Embrace the thrill of adventure, leave my comfort zone behind, and embark on a journey that will ignite my soul and leave my craving for more. Like a wave of freshness in the air.
 
 ### Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InesRobat&layout=compact)](https://github.com/InesRobat/InesRobat)
@@ -28,6 +28,6 @@
   <img align="left" alt="Ines's Linkedin" width ="32px" src="https://img.icons8.com/color/150/000000/linkedin.png"/>
 </a>
 
-<a href="">
-  <img align="left" alt="Ines's Porfolio" width ="32px" src="https://github.com/InesRobat/InesRobat/blob/master/logo.svg"/>
+<a href="https://www.inesrobat.com/">
+  <img align="left" alt="Ines's Porfolio" width ="32px" src="https://github.com/InesRobat/InesRobat/blob/master/logo.png"/>
 </a>
